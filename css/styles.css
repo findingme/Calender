@@ -21,7 +21,7 @@ tbody td:first-child {
   color: red;
 }
 
-tbody td :last-child {
+tbody td:last-child {
   color: blue;
 }
 
